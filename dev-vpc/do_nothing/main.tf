@@ -1,3 +1,3 @@
+resource "null_resource" "vpcupdate" {
 
-resource "null_resource" "test_resource" {
 }
