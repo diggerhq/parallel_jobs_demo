@@ -10,7 +10,7 @@ on:
         required: true
 jobs:
   build:
-    name: Workflow ID Provider
+    name: Digger run
     runs-on: ubuntu-latest
     steps:
       - name: digger run
